@@ -96,6 +96,7 @@ Demonstration
 See the uploaded project demonstration video for the Streamlit dashboard, Python code, record transfer, and verification workflow. Screenshots can also be placed in the optional demo/ directory.
 Outcome
 Demonstrated retrieval, clinical display, HTTP transfer, local persistence, and verification of six FHIR R4 resources between a public test server and a separate local receiving service.
+
 Limitations and privacy
 - Educational purpose.
 - Hospital B is a simplified Python HTTP receiver rather than a complete FHIR server.
