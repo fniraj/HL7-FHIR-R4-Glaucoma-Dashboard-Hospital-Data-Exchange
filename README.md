@@ -1,5 +1,4 @@
-
-                                                       Project overview
+                                                           Project overview
 A Python-based healthcare interoperability proof of concept demonstrating retrieval of HL7 FHIR R4 clinical resources, visualization in a Streamlit glaucoma dashboard, and transfer of patient records from a public FHIR test server (Hospital A) to a separate local HTTP receiver (Hospital B).
 
 The project uses fictional training data. Hospital B is a simplified local receiving service, not a real hospital or production FHIR server.
